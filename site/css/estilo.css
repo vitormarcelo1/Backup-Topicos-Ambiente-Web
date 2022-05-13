@@ -1,2 +1,10 @@
-p,h1{text-align: justify;}
+
+body{margin-top: 2.5%;
+    margin-bottom:5%;
+    margin-left:5%;
+    margin-right:5%;}
+ /**Formatação do texto**/ 
+
+h1{text-align: justify;}
 .centro{text-align: center;}
+/**estilo do texto**/
