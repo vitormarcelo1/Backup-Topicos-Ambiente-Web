@@ -1,1 +1,8 @@
 /**Paleta de cores:Azul,branco e preto**/
+
+body{background-color: #6959CD;opacity: 3.5;}
+/**cor do fundo**/
+
+p em{color:	#FAEBD7}
+p strong{color:#000000;}
+/**cores em regiões especificas da página**/
